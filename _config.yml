@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Marco Salernitano
+description: My presentation and portfolio GitHub pages.
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-slate
